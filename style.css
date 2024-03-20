@@ -1,0 +1,47 @@
+body{
+    background-color: #aaaaaa;
+  }
+
+  p{
+    text-align:center;
+  }
+  em {
+    color:#ff0000
+  }
+  #banner{
+    width:100%
+  }
+  
+  h1{
+  text-align:center;
+  border-radius: 25px;
+  background-color: rgb(68, 68, 68);
+  font-size: 30px
+  }
+  h2{
+    text-align: center;
+    font-size: 40px;
+    border-radius: 25px;
+    background-color:rgb(68, 68, 68)
+  }
+  .itens{
+    font-style: italic;
+  }
+  ul{
+    display: inline-block;
+    width:20%;
+    margin-right:15%;
+    vertical-align: top;
+    font-size: 30px;
+  }
+
+header{
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+}
+
+.imgbeneficios {
+  width: 50%;
+  border-radius: 35px;
+}
