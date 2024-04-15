@@ -1,0 +1,115 @@
+body {
+    background-color: #868686;
+}
+
+em {
+    color: rgba(231, 43, 18, 0.712);
+}
+
+h1 {
+    text-align: center;
+}
+
+#banner {
+    width: 100%;
+    border-radius: 35px;
+}
+
+#barba{
+    list-style-type: none;
+    font-size: 15px;
+    width:25%;
+    margin-left: 60px;
+    vertical-align: 65px;
+    border-radius: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#cabelo{
+    list-style-type: none;
+    font-size: 15px;
+    width:25%;
+    margin-top: -54px;
+    margin-left: 60%;
+    vertical-align: 65px;
+    border-radius: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    background-color: #3b3b3b;
+    border-radius: 35px;
+}
+
+.rodape{
+    font-family: "poppins", sans-serif;
+    list-style-type: none;
+    font-size: 23px;
+    display: inline;
+    width: 20%;
+    vertical-align: 65px;
+    border-radius: 35px;
+}
+.rodape li {
+    display: inline;
+    margin-right: 2%;
+}
+
+
+.imgBarba {
+    margin-left: 10px;
+    width: 400px;
+    border-radius: 35px;
+    height: 350px;
+}
+
+.imgCabelo {
+    margin-left: 100px;
+    width: 400px;
+    height: 350px;
+    border-radius: 35px;
+
+}
+
+.conjunto {
+    list-style-type: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width:1000px;
+    height: 1000px;
+}
+
+.imgBarba2 {
+    margin-top: 10%;
+    margin-left: 30%;
+    width: 20%;
+   
+}
+
+.imgCabelo2 {
+    margin-left: 3%;
+    width: 16%
+    
+}
+
+#precoConjunto {
+    margin-top: 0%;
+    border-radius: 3%;
+    
+}
+
+header {
+    text-align: center;
+    background-color: #868686;
+    padding: 20px;
+    border-radius: 10%;
+    
+}
+
+header ul a{
+    color: rgb(130, 30, 30);
+    text-decoration: none;
+}
+.beneficios h2 {
+    font-family: "montserrat", sans-serif;}

@@ -1,47 +1,89 @@
-body{
-    background-color: #aaaaaa;
-  }
+body {
+    background-color:#868686
+}
 
-  p{
-    text-align:center;
-  }
-  em {
-    color:#ff0000
-  }
-  #banner{
-    width:100%
-  }
-  
-  h1{
-  text-align:center;
-  border-radius: 25px;
-  background-color: rgb(68, 68, 68);
-  font-size: 30px
-  }
-  h2{
+p {
+    text-align: center;
+}
+
+em {
+    color: red;
+}
+
+#textMaior {
+    font-family: "tilt neon", sans-serif;
+    font-size: 35px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #3b3b3b;
+    border-radius: 35px;
+}
+
+#banner {
+    width: 100%;
+    border-radius: 35px;
+}
+
+.itens {
+    font-family: "montserrat", sans-serif;
+    font-style: italic;
+    font-size: 23px;
+    display: inline-block;
+    width: 29%;
+    margin-right: 15%;
+    vertical-align: 80px;
+    border-radius: 35px;
+
+}
+
+h2 {
     text-align: center;
     font-size: 40px;
-    border-radius: 25px;
-    background-color:rgb(68, 68, 68)
-  }
-  .itens{
-    font-style: italic;
-  }
-  ul{
-    display: inline-block;
-    width:20%;
-    margin-right:15%;
-    vertical-align: top;
-    font-size: 30px;
-  }
-
-header{
-  text-align: center;
-  background-color: white;
-  padding: 20px;
+    background-color: #3b3b3b;
+    border-radius: 35px;
 }
 
-.imgbeneficios {
-  width: 50%;
-  border-radius: 35px;
+.rodape{
+    font-family: "poppins", sans-serif;
+    list-style-type: none;
+    font-size: 23px;
+    display: inline;
+    width: 20%;
+    vertical-align: 65px;
+    border-radius: 35px;
+
 }
+.rodape li {
+    display: inline;
+    margin-right: 2%;
+}
+
+.imagemBeneficios {
+    width: 50%;
+    border-radius: 35px;
+}
+
+header {
+    text-align: center;
+    background-color: #868686;
+    padding: 20px;
+    border-radius: 35px;
+}
+
+header ul a{
+    color: rgb(130, 30, 30);
+    text-decoration: none;
+}
+
+.beneficios {
+    font-family: "montserrat", sans-serif;
+}
+
+#sobre {
+    font-family: "montserrat", sans-serif;
+}
+#slogan {
+    margin-top: -1%;
+    font-family: "montserrat", sans-serif;}
